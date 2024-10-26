@@ -9,36 +9,67 @@ div{
 Add your CSS to the ID selectors below
 */
 #statue{
+  position: fixed;
+  z-index: -1;
 }
 
 #ball{
+  position: relative;
+  z-index: 1;
+  left: 77px;
+  top: 20px;
 
 }
 
 #turnip{
+  position: relative;
+  z-index: 1;
+  left: 295px;
+  top: 410px;
 
 }
 
 #farm{
+  position: fixed;
+  z-index: -1;
 
 }
 
 #grass{
+  position: relative;
+  z-index: 1;
+  left: 350px;
+  top: 410px;
 
 }
 
 #tetris{
+  position: fixed;
+  z-index: -1;
 
 }
 
 #L{
+  position: relative;
+  z-index: 1;
+  top: 1900px;
+  left: 100px;
+  
 
 }
 
 #T{
+  position: relative;
+  z-index: 1;
+  top: 2100px;
+  left: 200px;
 
 }
 
 #I{
+  position: relative;
+  z-index: 1;
+  top: 2100px;
+  left: 500px;
 
 }
