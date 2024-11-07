@@ -9,7 +9,7 @@ div{
 Add your CSS to the ID selectors below
 */
 #statue{
-  position: fixed;
+  position: relative;
   z-index: -1;
 }
 
@@ -17,7 +17,7 @@ Add your CSS to the ID selectors below
   position: relative;
   z-index: 1;
   left: 77px;
-  top: 20px;
+  top: -125px;
 
 }
 
@@ -30,7 +30,7 @@ Add your CSS to the ID selectors below
 }
 
 #farm{
-  position: fixed;
+  position: relative;
   z-index: -1;
 
 }
@@ -44,7 +44,7 @@ Add your CSS to the ID selectors below
 }
 
 #tetris{
-  position: fixed;
+  position: relative;
   z-index: -1;
 
 }
